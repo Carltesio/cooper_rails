@@ -1,0 +1,8 @@
+{
+  "name": "cooper_test_challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Carltesio/cooper_rails.git",
+  "author": "Carlos <carlos.delgado@hotmail.it>",
+  "license": "MIT"
+}
